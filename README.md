@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, My name is Juan Brenes</h1>
 <h3 align="center">I'm a backend developer and also a great enthusiast of frontend development</h3>
 
-- 🔭 I’m currently working on **La Aparcería**
+- 🔭 I’m currently working on **La Aparcería, is a project about delivery food for companies**
 
-- 🌱 I’m currently learning **Angular, Laravel, PHP and TypeScript**
+- 🌱 I’m currently learning **Js, React, TypeScript and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jbrecal](https://github.com/jbrecal)
 
-- 💬 Ask me about **Java, C#, SQL, HTML, CSS, JS and React**
+- 💬 Ask me about **Java, C#, SQL, HTML, CSS**
 
 - 📫 How to reach me **juan.r.brenes@gmail.com**
 

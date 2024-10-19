@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Js, React, TypeScript and Python**
 
-- 👨‍💻 All of my projects are available **[here]**(https://github.com/jbrecal?tab=repositories)
+- 👨‍💻 All of my projects are available **[here](https://github.com/jbrecal?tab=repositories)**
 
 - 💬 Ask me about **Java, C#, SQL, HTML, CSS**
 

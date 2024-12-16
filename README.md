@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I can spend hours debugging code. I absolutely love designing websites, and I often find myself tweaking layouts and colors just for fun!**
 
-- 👨‍💻 Certifications: [PHP](https://campus-ademass.com/aut/13319), [Laravel](https://campus-ademass.com/aut/13318)
+- 👨‍💻 Certifications: [PHP](https://campus-ademass.com/aut/13319), [Laravel](https://campus-ademass.com/aut/13318), [Azure Data Factory](https://openwebinars.net/cert/xUY4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
